@@ -59,7 +59,7 @@ KubeEdge组件包含两部分：
 + 边端增加安全特性。
 ## OpenYurt 概述
 <img src="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/4.png" width="500">
-<img src="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/5.png" width="500">
+<img src="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/5.png" width="400">
 
 使用 OpenYurt（Yurt，/jɜːrt/，蒙古包）作为开源项目名称，期望以其“形”来表示边缘计算侧重于创建一个集中管理但物理分布的基础设施，并支持自动/自治运行操作的含义。
 <br/>
