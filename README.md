@@ -146,8 +146,8 @@ OpenYurt提供了一个控制器管理器，用于管理一些控制器，例如
         </tr>
         <tr>
             <th>架构比较</th>
-            <td background="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/1-1.png" height = "200" width = "200"></td>
-            <td background="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/1-2.png" height = "200" width = "200"></td>
+            <td><img src="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/1-1.PNG" height = "200" width = "350"></td>
+            <td><img src="https://github.com/inspursoft/kubeEdge-OpenYurt/blob/master/img/1-2.PNG" height = "200" width = "350"></td>
         </tr>
         <tr>
             <th>Cloud</th>
