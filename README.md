@@ -165,8 +165,8 @@ OpenYurt提供了一个控制器管理器，用于管理一些控制器，例如
         </tr>
         <tr>
             <th>安装</th>
-            <td>● 自动安装：<br/><DD>keadm</DD>● 手动安装: <br/><DD>使用kubectl<br/>二进制: <br/>https://github.com/kubeedge/kubeedge/releases<br/>
-    Crd yaml 文件：<br/>https://github.com/kubeedge/kubeedge/tree/master/build/crds<br/></DD>● Others</td><td>● 自动安装: <br/><DD>yurtctl convert --provider [minikube|ack]<br/>注意：目前yurtctl只支持minikube和ack<br/></DD>● 手动安装: <br/><DD>https://github.com/alibaba/openyurt/blob/master/docs/tutorial/manually-setup.md#label-cloud-nodes-and-edge-nodes</td></DD>
+            <td>● 自动安装：<br/>keadm<br/>● 手动安装: <br/>使用kubectl<br/>二进制: <br/>https://github.com/kubeedge/kubeedge/releases<br/>
+    CRD yaml 文件：<br/>https://github.com/kubeedge/kubeedge/tree/master/build/crds<br/>● Others</td><td>● 自动安装: <br/>yurtctl convert --provider [minikube|ack]<br/>注意：目前yurtctl只支持minikube和ack<br/>● 手动安装: <br/>https://github.com/alibaba/openyurt/blob/master/docs/tutorial/manually-setup.md#label-cloud-nodes-and-edge-nodes</td>
         </tr>
         <tr>
             <th>开源</th>
